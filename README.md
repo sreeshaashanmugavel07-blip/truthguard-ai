@@ -103,13 +103,6 @@ The dataset is preprocessed and used for training the machine learning model.
 * Mobile application
 * Voice-based input
 
----
-
-## 👥 Authors
-
-* D. Hemasri
-* S. Sreeshaa
-* Chaandrayee Dutta
 
 ---
 
