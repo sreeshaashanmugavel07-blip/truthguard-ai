@@ -1,5 +1,9 @@
 # 🛡️ TruthGuard – AI Fake News Detector
 
+🌐 Live Web App (Streamlit Cloud):
+https://truthguard--ai.streamlit.app
+
+Accessible via web using Streamlit Cloud deployment.
 TruthGuard is an AI-powered system designed to detect fake news using Machine Learning and intelligent fact verification techniques.
 The system combines classification algorithms with explainable AI to provide accurate and transparent results.
 
